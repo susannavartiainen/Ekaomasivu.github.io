@@ -1,0 +1,38 @@
+
+h1{
+	color: darkred;
+	text-align: center;
+}
+
+h2{
+	color: darkred;
+	text-align: center;
+}
+
+body {
+	background-color: rgb(210,220,210);
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
+ul, ol { text-align: left }
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+  background-color:maroon;
+}
+
+.column {
+  flex: 33.33%;
+}
+</style>
+
+.laatikko	{
+
+	float: left;
+}
