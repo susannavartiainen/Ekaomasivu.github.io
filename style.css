@@ -11,6 +11,7 @@ h2{
 
 h3{
 	text-align: left;
+	background-color: blue;
 	p.solid {border-style: solid;}
 }
 
